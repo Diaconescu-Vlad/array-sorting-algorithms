@@ -2,8 +2,8 @@
 
 We implement 3 sorting algorithms for integer arrays.
 
-## Bubble Sort
+## Radix Sort
 
-The Bubble Sort algorithm sorts the array in ascending order.
+The Radix Sort algorithm sorts the array in ascending order.
 
 The algorithm is implemented in C.
